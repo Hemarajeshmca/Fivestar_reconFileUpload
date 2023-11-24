@@ -1,0 +1,7 @@
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.csproj.AssemblyReference.cache
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.GeneratedMSBuildEditorConfig.editorconfig
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.AssemblyInfoInputs.cache
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.AssemblyInfo.cs
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.csproj.CoreCompileInputs.cache
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.MvcApplicationPartsAssemblyInfo.cs
+D:\DMSdinesh\Reconcore\ReconCore\Recon_Filedownload\obj\Debug\net5.0\Recon_Filedownload.MvcApplicationPartsAssemblyInfo.cache

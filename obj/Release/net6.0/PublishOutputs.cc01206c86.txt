@@ -1,0 +1,12 @@
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Recon_Filedownload.exe
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Recon_Filedownload.dll
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Recon_Filedownload.deps.json
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Recon_Filedownload.runtimeconfig.json
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Recon_Filedownload.pdb
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Schema.dll
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Flexi\Recon\Core\Recon_Filedownload\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

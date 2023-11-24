@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "MGcVMMacIeYv2hw0Jt/G6U2vSu/iYqwbHeN2jCTjv1E=",
+  "Source": "Recon_Filedownload",
+  "BasePath": "_content/Recon_Filedownload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Recon_Filedownload\\wwwroot",
+      "Source": "Recon_Filedownload",
+      "ContentRoot": "D:\\DMSdinesh\\Reconcore\\ReconCore\\Recon_Filedownload\\wwwroot\\",
+      "BasePath": "_content/Recon_Filedownload",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

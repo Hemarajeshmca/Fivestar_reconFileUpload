@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Flexi\Recon\publish\Recon_core</_PublishTargetUrl>
+    <History>True|2023-11-20T07:10:26.1419332Z;True|2023-06-20T12:09:07.7341705+05:30;True|2023-05-19T12:44:59.5414949+05:30;True|2023-03-30T12:55:04.8798260+05:30;True|2023-03-28T11:04:12.3470255+05:30;True|2023-02-06T12:18:50.6286359+05:30;True|2023-02-06T12:17:21.5905477+05:30;True|2023-01-06T20:03:44.2109363+05:30;True|2022-12-22T08:07:46.8459385+05:30;True|2022-12-22T08:07:25.1275297+05:30;True|2022-12-22T07:52:07.4300591+05:30;True|2022-11-14T17:26:57.9792129+05:30;True|2022-11-14T15:55:06.4320000+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
